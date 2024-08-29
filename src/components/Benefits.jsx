@@ -35,7 +35,7 @@ const Benefits = () => {
 
   return (
     <Section id="features">
-      <div className="container relative z-2">
+      <div className="container relative z-2 px-[3.5rem]">
         <Heading
           className="md:max-w-md lg:max-w-2xl"
           title="Smart Chatting Made Easy with Blitz-AI"
